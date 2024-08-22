@@ -1,4 +1,4 @@
 # numpy
 This is my first repository.
-This is a Numpy Repo.
+This is a Numpy Repository.
 
